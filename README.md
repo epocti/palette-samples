@@ -1,5 +1,5 @@
 # palette-samples
-This repository consists of sample palettes to be used with Vulpica Palette. They are in the Epocti Palette format.
+This repository consists of sample palettes to be used with Candid Palette. They are in the Epocti Palette format.
 
 | Sample | Description |
 | -------- | -------- |
